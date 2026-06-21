@@ -1,2 +1,2 @@
-# ARM7-LPC2129-based-Vehicle-light-control-system-using-CAN-protocol
+ # ARM7-LPC2129-based-Vehicle-light-control-system-using-CAN-protocol
 A CAN Bus based Vehicle Light Control System on ARM7 LPC2129 microcontroller. It controls Headlight, Right Indicator and Left Indicator using two CAN nodes where Node A transmits commands via External Interrupts (EINT0, EINT1, EINT2) on button press and Node B receives CAN messages using CAN RX Interrupt and controls lights via GPIO.
